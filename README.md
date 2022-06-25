@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yahyasalimi.netlify.app](https://yahyasalimi.netlify.app)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about anything **[here](https://github.com/moyamoha/moyamoha/issues/1)**
 
 - 📫 How to reach me **salimiyahya549@gmail.com**
 

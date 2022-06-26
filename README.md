@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yahya</h1>
+<h1 align="center">Hi 👋, I'm Yahya Salimi</h1>
 <h3 align="center">A passionate full-stack developer based in Finland</h3>
 
 - 🌱 I’m currently learning **full-stack developement**

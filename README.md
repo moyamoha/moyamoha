@@ -26,6 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moyamoha&show_icons=true&locale=en" alt="moyamoha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moyamoha&" alt="moyamoha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=moyamoha&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="moyamoha" /></p>
 
 

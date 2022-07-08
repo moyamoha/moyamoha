@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full-stack developement**
 
-- 👨‍💻 All of my projects are available at [https://yahyasalimi.netlify.app](https://yahyasalimi.netlify.app)
+- 👨‍💻 All of my projects are available at [**https://yahyasalimi.netlify.app**](https://yahyasalimi.netlify.app)
 
 - 💬 Ask me about anything **[here](https://github.com/moyamoha/moyamoha/issues/1)**
 
